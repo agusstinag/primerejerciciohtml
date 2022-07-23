@@ -1,0 +1,17 @@
+<!DOCTYPE html>
+<html>
+    <head>
+        <title> Ejercicio de Introducción a HTML en OpenBootcamp</title>
+    </head>
+    <body>
+        <!--Este es mi primer comentario de dos lineas-->
+        <!--Aprendiendo a documentar mi código en OpenBootcamp-->
+        <div>
+            <ul>
+                <li><a href="https://www.youtube.com/watch?v=QSHpV-cX16I"> Salas de Cine en Corea del sur  </a></li>
+                <li><a href="https://www.youtube.com/watch?v=J31A-d-r41g"> Boliches en Corea del sur </a></li>
+                <li><a href="https://www.youtube.com/watch?v=J4mFJqD7GIU"> Frontera con Corea del Norte</a> </li>
+            </ul>
+        </div>
+    </body>
+</html>
